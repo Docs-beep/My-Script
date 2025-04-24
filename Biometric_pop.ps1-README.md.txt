@@ -1,0 +1,15 @@
+Biometric_pop.ps1-README.md
+This PowerShell script configures biometric features during user login, enabling users to use biometric authentication.
+
+Functionalities
+Biometric Authentication.
+
+Usage
+The script should be configured in Group Policy under User Login.
+.\ps1 Biometric_pop
+
+README.md
+
+
+
+
